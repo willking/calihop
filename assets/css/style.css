@@ -1,0 +1,53 @@
+body {
+	display: block;
+	height: 100%;
+/*	background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/seigaiha.png);
+*/	background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/brillant.png);
+	background-repeat: repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.container-fluid {
+	max-width: 600px;
+}
+
+.container {
+	max-width: 600px;
+	padding: 0 0 0 0;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.main {
+	background-color: #e7e7e7;
+	height: 100%;
+}
+
+img {
+	width: 100%;
+}
+
+h1 {
+	font-family: 'Comfortaa', cursive;
+}
+
+a.navbar-brand {
+	font-family: 'Pacifico', cursive;
+	font-size: 180% !important;
+	background-color: #e7e7e7;
+}
+
+a {
+	font-family: 'Comfortaa', cursive;
+	font-size: 130%;
+}
+
+p {
+	font-family: 'Comfortaa', cursive;
+	font-weight: bold;
+	color: #555;
+	margin: 15px 0;
+}
