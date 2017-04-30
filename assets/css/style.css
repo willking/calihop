@@ -17,10 +17,6 @@ body {
 	padding: 0 0 0 0;
 }
 
-.navbar {
-	margin-bottom: 0;
-}
-
 .main {
 	background-color: #e7e7e7;
 	height: 100%;
@@ -34,10 +30,18 @@ h1 {
 	font-family: 'Comfortaa', cursive;
 }
 
+.navbar {
+	margin-bottom: 0;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
 a.navbar-brand {
-	font-family: 'Pacifico', cursive;
-	font-size: 180% !important;
-	background-color: #e7e7e7;
+	font-family: 'Baloo', cursive;
+	font-size: 220% !important;
+	background-color: #ffe047;
 }
 
 a {
@@ -49,5 +53,25 @@ p {
 	font-family: 'Comfortaa', cursive;
 	font-weight: bold;
 	color: #555;
-	margin: 15px 0;
+	margin: 20px 0;
+}
+
+/* ---- Contact Form ----*/
+
+.btn-primary {
+    color: #fff;
+    background-color: #ffe047;
+    border-color: #555;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #ffe047;
+    border-color: #555;
+}
+
+.btn-primary:active {
+    color: #fff;
+    background-color: #ffe047;
+    border-color: #555;
 }
