@@ -67,20 +67,32 @@ p {
 
 /* ---- Contact Form ----*/
 
-.btn-primary {
+.btn-warning {
     color: #fff;
     background-color: #ffe047;
     border-color: #555;
 }
 
-.btn-primary:hover {
-    color: #fff;
-    background-color: #ffe047;
+.btn-warning:hover {
+    color: #555;
+    background-color: white;
     border-color: #555;
 }
 
 .btn-primary:active {
-    color: #fff;
-    background-color: #ffe047;
+	color: #555;
+    background-color: white;
+    border-color: #555;
+}
+
+.btn-warning:link {
+	color: #555;
+    background-color: white;
+    border-color: #555;
+}
+
+.btn-warning:visited {
+	color: #555;
+    background-color: white;
     border-color: #555;
 }
