@@ -30,6 +30,14 @@ h1 {
 	font-family: 'Comfortaa', cursive;
 }
 
+h2 {
+	font-family: 'Comfortaa', cursive;
+}
+
+h3 {
+	font-family: 'Comfortaa', cursive;
+}
+
 .navbar {
 	margin-bottom: 0;
 }
@@ -52,6 +60,7 @@ a {
 p {
 	font-family: 'Comfortaa', cursive;
 	font-weight: bold;
+	font-size: 120%;
 	color: #555;
 	margin: 20px 0;
 }
